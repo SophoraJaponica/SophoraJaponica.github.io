@@ -17,8 +17,8 @@ sidebar-avatar: /img/about-SAM.jpg      # use absolute URL, seeing it's used in 
 
 
 # SNS settings
-RSS: false
- weibo_username:     Sam-1st
+RSS: t
+# weibo_username:     Sam-1st
 # zhihu_username:     qiubaiying
 # github_username:    qiubaiying
 # facebook_username:  baiying.qiu.7
@@ -99,7 +99,7 @@ service-worker: true
 # 友情链接，请尽量不要删除，谢谢！
 friends: [
     {
-        title: "GitHub",
-        href: "https://SophoraJaponica.gitee.io"
+        title: "微博",
+        href: "https://weibo.com/u/6047014500"
     }
 ]
