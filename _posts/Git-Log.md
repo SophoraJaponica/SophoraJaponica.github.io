@@ -1,6 +1,7 @@
 1.（空仓库）创建完空仓库就将本地项目关联到远程
     1.1.如果本地项目已经通过git管理：
-        直接通过git remote add origin (仓库地址) 关联 => git push -u origin master 推送代码上去，就完事了。
+        直接通过git remote add origin (仓库地址) 关联
+        => git push -u origin master 推送代码上去，就完事了。
     1.2.本地项目未通过git管理：
         git init(将项目通过git初始化)
         => git add .(添加所有修改到暂存区)
