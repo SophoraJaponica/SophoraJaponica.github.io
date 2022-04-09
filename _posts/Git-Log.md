@@ -22,3 +22,6 @@
     非空仓库的关联，pull是可以成功的，但是push是不行
     push不成功 - 这时候先通过git pull origin master --allow-unrelated-histories拉取下，再push
     出现(non-fast-forward)的根本原因是repository已经存在项目且不是你本人提交（但是git只认地址），你commit的项目和远程repository不一样。
+
+    补充：error: remote origin already exists.
+    表示目前已经关联到远程（或许目前远程库已经重置），执行 git remote rm origin (删除关联的origin的远程库)，然后在执行 git remote add origin
