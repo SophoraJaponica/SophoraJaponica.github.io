@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      Mysql配置问题
+subtitle:   v0.1版
+date:       2022-04-10
+author:     Sam Li
+header-img: img/post-bg-cook.jpg
+catalog: true
+tags:
+- Mysql
+---
+
 1.重置Mysql密码
     # 进入容器
     docker exec -it mysql bash

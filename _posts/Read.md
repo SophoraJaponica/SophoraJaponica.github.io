@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      学习笔记
+subtitle:   v0.1版
+date:       2022-04-10
+author:     Sam Li
+header-img: img/post-bg-cook.jpg
+catalog: true
+tags:
+- 学习笔记
+---
 进程与线程：
 1. 一个程序至少有一个进程，一个进程至少有一个线程。
 2. 线程的划分尺度小于进程，使得多线程程序的并发性高。

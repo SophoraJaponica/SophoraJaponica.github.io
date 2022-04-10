@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      Docker问题记录
+subtitle:   v0.1版
+date:       2022-04-10
+author:     Sam Li
+header-img: img/post-bg-cook.jpg
+catalog: true
+tags:
+- Docker
+---
 
 1.记录容器启动失败
     ![avatar](/img/Docker/img1.png)

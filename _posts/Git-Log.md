@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      Git问题记录
+subtitle:   v0.1版
+date:       2022-04-10
+author:     Sam Li
+header-img: img/post-bg-cook.jpg
+catalog: true
+tags:
+- Git
+---
 1.（空仓库）创建完空仓库就将本地项目关联到远程
     1.1.如果本地项目已经通过git管理：
         直接通过git remote add origin (仓库地址) 关联
