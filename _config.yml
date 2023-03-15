@@ -66,7 +66,7 @@ gitalk:
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
   repo: SophoraJaponica.github.io    #仓库名称
   owner: SophoraJaponica    #github用户名
-  admin: sam
+  admin: Sam
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
