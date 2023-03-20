@@ -10,10 +10,9 @@ tags:
 - Docker
 ---
 
-
 2022/4/3
 记录容器启动失败
-![avatar](/img/docker/img1.png)
+![avatar](../../img/docker/img1.png)
 response from daemon: OCI runtime create failed: container with id exists:XXX:unknown
 
 问题原因：
